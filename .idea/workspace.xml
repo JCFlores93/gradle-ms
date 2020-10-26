@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d94b775-4a5e-4349-9da1-0069ee574387" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/GradleLifeCycleScriptExamples/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/GradleLifeCycleScriptExamples/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyScriptsExamples (2)/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyScriptsExamples (2)/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroovyScriptsExamples/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyScriptsExamples/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskScriptExamples/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/TaskScriptExamples/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle-java-console-application-Kt/gradlejava1-complete-Kt/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/gradle-java-console-application-Kt/gradlejava1-complete-Kt/build.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jMtWxr98roX8m9CMkhXggd3KBF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$/TaskScriptExamples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="/Users/admin/Desktop/gradle-ms/TaskScriptExamples/build.gradle [hello]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/TaskScriptExamples/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="hello" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/TaskScriptExamples" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle./Users/admin/Desktop/gradle-ms/TaskScriptExamples/build.gradle [hello]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d94b775-4a5e-4349-9da1-0069ee574387" name="Default Changelist" comment="" />
+      <created>1603625823607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603625823607</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="554" y="-853" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603626234338">
+      <screen x="-295" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="554" y="-853" key="#com.intellij.execution.impl.EditConfigurationsDialog/-295.-1057.1920.1057/0.23.1280.704@-295.-1057.1920.1057" timestamp="1603626234338" />
+    <state width="1238" height="282" key="GridCell.Tab.0.bottom" timestamp="1603661041733">
+      <screen x="0" y="23" width="1280" height="704" />
+    </state>
+    <state width="1238" height="282" key="GridCell.Tab.0.bottom/-295.-1057.1920.1057/0.23.1280.704@0.23.1280.704" timestamp="1603661041733" />
+    <state width="1238" height="282" key="GridCell.Tab.0.center" timestamp="1603661041732">
+      <screen x="0" y="23" width="1280" height="704" />
+    </state>
+    <state width="1238" height="282" key="GridCell.Tab.0.center/-295.-1057.1920.1057/0.23.1280.704@0.23.1280.704" timestamp="1603661041732" />
+    <state width="1238" height="282" key="GridCell.Tab.0.left" timestamp="1603661041731">
+      <screen x="0" y="23" width="1280" height="704" />
+    </state>
+    <state width="1238" height="282" key="GridCell.Tab.0.left/-295.-1057.1920.1057/0.23.1280.704@0.23.1280.704" timestamp="1603661041731" />
+    <state width="1238" height="282" key="GridCell.Tab.0.right" timestamp="1603661041733">
+      <screen x="0" y="23" width="1280" height="704" />
+    </state>
+    <state width="1238" height="282" key="GridCell.Tab.0.right/-295.-1057.1920.1057/0.23.1280.704@0.23.1280.704" timestamp="1603661041733" />
+    <state x="57" y="-871" key="SettingsEditor" timestamp="1603626156993">
+      <screen x="-295" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="57" y="-871" key="SettingsEditor/-295.-1057.1920.1057/0.23.1280.704@-295.-1057.1920.1057" timestamp="1603626156993" />
+    <state x="712" y="23" width="568" height="704" key="find.popup" timestamp="1603679548636">
+      <screen x="0" y="23" width="1280" height="704" />
+    </state>
+    <state x="778" y="-869" width="847" height="705" key="find.popup/-295.-1057.1920.1057/0.23.1280.704@-295.-1057.1920.1057" timestamp="1603626176129" />
+    <state x="712" y="23" width="568" height="704" key="find.popup/-295.-1057.1920.1057/0.23.1280.704@0.23.1280.704" timestamp="1603679548636" />
+    <state x="413" y="-912" key="new project wizard" timestamp="1603626332686">
+      <screen x="-295" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="413" y="-912" key="new project wizard/-295.-1057.1920.1057/0.23.1280.704@-295.-1057.1920.1057" timestamp="1603626332686" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TaskScriptExamples/build.gradle</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -15,7 +15,7 @@ repositories{
 }
 
 dependencies { 
-	implementation("org.apache.commons:commons-math3:3.2")
+	implementation "org.apache.commons:commons-math3:3.2"
 	testImplementation("junit:junit:4.11")
 }
 
